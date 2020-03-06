@@ -141,3 +141,15 @@ print(dzielenie_cal)
 potega = a ** d
 print(potega)
 
+e = 2.71
+
+potega = e ** 10
+print(e)
+print(potega)
+
+napis = input("tu jest\n")
+print(napis)
+print (len(napis))
+
+git push -f origin
+
