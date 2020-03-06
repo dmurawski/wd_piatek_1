@@ -147,9 +147,8 @@ potega = e ** 10
 print(e)
 print(potega)
 
-napis = input("tu jest\n")
-print(napis)
-print (len(napis))
-
-git push -f origin
+licznik = 1 
+while licznik < 15:
+    print ((licznik ** licznik) // (licznik + 1))
+    licznik = licznik + 1
 
