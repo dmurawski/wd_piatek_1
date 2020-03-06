@@ -152,3 +152,8 @@ while licznik < 15:
     print ((licznik ** licznik) // (licznik + 1))
     licznik = licznik + 1
 
+tekst = input("podaj jakis tekst: ")
+ilosc = 0
+if tekst == '1':
+    ilosc = ilosc + 1 
+print('lenght is',ilosc)
