@@ -92,7 +92,6 @@ slownik = {}
 slownik2 = {"klucz" : "wartość"}
 slownik3 = {0: "Adam"}
 slownik2["klucz"] = "cośtam"
-slonwik3[0]
 slownik2.keys()
 slownik2.values()
 
@@ -101,4 +100,44 @@ if liczba in [1 ,2 ,3, 10]:
 else:
     print("Nie ma na liście")
 
-Siema dziala
+
+
+
+
+calkowita1 = 7
+calkowita2 = 77
+
+rzeczywista1 = 7.5
+rzeczywista2 = 117.25
+
+napis1 = 'siema'
+napis2 = 'Samochód'
+
+print (calkowita1)
+print (calkowita2)
+print (rzeczywista1)
+print (rzeczywista2)
+print (napis1)
+print (napis2)
+
+
+a=10
+b=20
+c=30
+d=3
+
+dodawanie = a + b
+print(dodawanie)
+odejmowanie = a - c
+print(odejmowanie)
+dzielenie = c / a
+print(dzielenie)
+mnozenie = a * c
+print(mnozenie)
+modulo = c % a
+print(modulo)
+dzielenie_cal = c // b
+print(dzielenie_cal)
+potega = a ** d
+print(potega)
+
