@@ -101,3 +101,4 @@ if liczba in [1 ,2 ,3, 10]:
 else:
     print("Nie ma na liście")
 
+fsfsdfsdf
